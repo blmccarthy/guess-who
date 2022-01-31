@@ -1,30 +1,48 @@
 var people = [
+  // {
+  //   name: 'Dev',
+  //   githubUsername: 'devjanaprime'
+  // },
+  // {
+  //   name: 'Dane',
+  //   githubUsername: 'DoctorHowser'
+  // },
+  // {
+  //   name: 'Matt',
+  //   githubUsername: 'matthew-black'
+  // },
+  // {
+  //   name: 'Kris',
+  //   githubUsername: 'kdszafranski'
+  // },
+  // {
+  //   name: 'Edan',
+  //   githubUsername: 'eschwartz'
+  // },
+  // {
+  //   name: 'Liz',
+  //   githubUsername: 'emkerber'
+  // },
+  // {
+  //   name: 'Chris',
+  //   githubUsername: 'christopher-black'
+  // },
   {
-    name: 'Dev',
-    githubUsername: 'devjanaprime'
+    name: 'Brant',
+    githubUsername: 'blmccarthy',
   },
   {
-    name: 'Dane',
-    githubUsername: 'DoctorHowser'
+    name: 'Abdi',
+    githubUsername: 'alldayabdi',
+    
   },
   {
-    name: 'Matt',
-    githubUsername: 'matthew-black'
+    name: 'Kelsey',
+    githubUsername: 'kelseypeterson1',
   },
-  {
-    name: 'Kris',
-    githubUsername: 'kdszafranski'
-  },
-  {
-    name: 'Edan',
-    githubUsername: 'eschwartz'
-  },
-  {
-    name: 'Liz',
-    githubUsername: 'emkerber'
-  },
-  {
-    name: 'Chris',
-    githubUsername: 'christopher-black'
-  },
+  { 
+    name: 'Leah',
+    githubUsername: 'leah-atkins84',
+    
+  }
 ];
